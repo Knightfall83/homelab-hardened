@@ -35,7 +35,7 @@ I'm working toward a cybersecurity degree, and I wanted a public record of hands
 
 ## What's not here
 
-A couple of personal-machine bug hunts (an audio driver issue, a GPU crash investigation) and a graded school project live outside this repo. This one is scoped to security and infrastructure work specifically.
+A couple of personal-machine bug hunts (an audio driver issue, a GPU crash investigation) live outside this repo. This one is scoped to security and infrastructure work specifically.
 
 ## License
 

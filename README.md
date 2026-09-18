@@ -33,6 +33,7 @@ I'm working toward a cybersecurity degree, and I wanted a public record of hands
 | 13 | [Disaster Recovery via Volume Shadow Copy](docs/13-disaster-recovery.md) | Recovering from an accidental mass deletion using a same-day Windows shadow copy |
 | 14 | [Least-Privilege Remote Access](docs/14-least-privilege-remote-access.md) | Deliberately running a remote-access service with reduced privileges instead of full admin by default |
 | 15 | [DFIR and Threat Hunting with Velociraptor](docs/15-dfir-hunting-with-velociraptor.md) | Adding a hunting layer on top of the existing SIEM, a real GUI bug found and worked around, and two real forensic collections run against the primary server |
+| 16 | [SIEM + DFIR Integration: Wazuh and Velociraptor Working Together](docs/16-siem-dfir-integration.md) | Architecture diagram, what each tool catches that the other doesn't, and a real worked example: a genuine alert traced through a hunt, including a real artifact bug found along the way |
 
 ## What's not here
 

@@ -32,6 +32,7 @@ I'm working toward a cybersecurity degree, and I wanted a public record of hands
 | 12 | [Container Isolation: Moving a Whole Server to Docker](docs/12-container-isolation.md) | Migrating every application-level service into isolated containers, one at a time, with zero data loss |
 | 13 | [Disaster Recovery via Volume Shadow Copy](docs/13-disaster-recovery.md) | Recovering from an accidental mass deletion using a same-day Windows shadow copy |
 | 14 | [Least-Privilege Remote Access](docs/14-least-privilege-remote-access.md) | Deliberately running a remote-access service with reduced privileges instead of full admin by default |
+| 15 | [DFIR and Threat Hunting with Velociraptor](docs/15-dfir-hunting-with-velociraptor.md) | Adding a hunting layer on top of the existing SIEM, a real GUI bug found and worked around, and two real forensic collections run against the primary server |
 
 ## What's not here
 
